@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationInsightsResourceId>/subscriptions/879da822-1de3-4816-8837-3c64821f10cb/resourceGroups/Perso/providers/microsoft.insights/components/mfork</ApplicationInsightsResourceId>
+    <LangVersion>Latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ACMESharpCore" Version="2.2.0.148" />
+    <PackageReference Include="ACMESharpCore.Crypto" Version="2.2.0.148" />
+    <PackageReference Include="Airtable" Version="1.1.4" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.16.0" /> 
+    <PackageReference Include="Microsoft.Azure.Management.Fluent" Version="1.35.0" />
+    <PackageReference Include="Microsoft.Azure.Management.ResourceManager.Fluent" Version="1.35.0" />
+    <PackageReference Include="PKISharp.SimplePKI" Version="2.0.1.148" />
+    <PackageReference Include="PuppeteerSharp" Version="2.0.4" />
+    <PackageReference Include="Wangkanai.Detection" Version="2.0.1" />
+  </ItemGroup>
+
+
+</Project>
