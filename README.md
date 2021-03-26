@@ -1,8 +1,8 @@
 # mfork
 
-https://mfork.franklibolt.fr/
+Code source de l'api derière l'application web https://mfork.franklibolt.fr/
 
-Une application web permettant de rediriger vers deux versions différente d'un site web en fonction de l'appareil utilisé.
+Cette api permet de rediriger vers deux versions différente d'un site web en fonction de l'appareil utilisé.
 
 # Dependances
 
